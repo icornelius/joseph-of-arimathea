@@ -1,0 +1,84 @@
+---
+references:
+- id: CorneliusEndingsHalflinesMiddle
+  author:
+    - family: Cornelius
+      given: Ian
+  citation-key: CorneliusEndingsHalflinesMiddle
+  container-title: Medium Ævum
+  language: en
+  status: In press
+  title: >-
+    Endings of half-lines in the Middle English alliterative *Joseph of
+    Arimathea*
+  type: article-journal
+
+- id: LaingLinguisticAtlasEarly2013
+  author:
+    - family: Laing
+      given: Margaret
+    - family: Lass
+      given: Roger
+    - family: Williamson
+      given: Keith
+    - family: Karaiskos
+      given: Vasilis
+    - family: Branchaw
+      given: Sherrylyn
+  citation-key: LaingLinguisticAtlasEarly2013
+  edition: version 3.2
+  event-place: Edinburgh
+  issued:
+    - year: 2013
+    - year: 0
+  language: en
+  publisher: The University of Edinburgh
+  publisher-place: Edinburgh
+  title: A linguistic atlas of early Middle English, 1150–1325
+  type: book
+  URL: http://www.lel.ed.ac.uk/ihd/laeme2/laeme2.html
+
+- id: ScaseFacsimileEditionVernon2011
+  call-number: PR1120 .V47 2011
+  citation-key: ScaseFacsimileEditionVernon2011
+  collection-number: '3'
+  collection-title: Bodleian Digital Texts
+  contributor:
+    - family: Kennedy
+      given: Nick
+  editor:
+    - family: Scase
+      given: Wendy
+  event-place: Oxford
+  ISBN: 978-1-85124-333-4
+  issued:
+    - year: 2011
+  language: en
+  publisher: Bodleian Library
+  publisher-place: Oxford
+  title: >-
+    A facsimile edition of the Vernon manuscript. Oxford, Bodleian Library, MS.
+    Eng. Poet. A. 1
+  type: book
+
+- id: SkeatJosephArimathieOtherwise1871
+  citation-key: SkeatJosephArimathieOtherwise1871
+  collection-number: '44'
+  collection-title: Early English Text Society, O. S.
+  editor:
+    - family: Skeat
+      given: Walter W.
+  event-place: London
+  issued:
+    - year: 1871
+  language: en
+  number-of-pages: '100'
+  publisher: Trübner
+  publisher-place: London
+  source: HathiTrust
+  title: >-
+    Joseph of Arimathie: otherwise called The romance of the Seint Graal, or
+    Holy Grail
+  title-short: Joseph of Arimathie
+  type: book
+...
